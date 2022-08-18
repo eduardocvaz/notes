@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "7f33d6b226259e21",
+    "type": "split",
+    "children": [
+      {
+        "id": "63aba90c4f2e4037",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Google_Hacking/GoogleHacking.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01c1968a39dbd53b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee164c45a6b928cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e68415c8f09e571",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c774165a759810e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e58b4b5e1e7daae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "f9ab759dbf406f88",
+    "type": "split",
+    "children": [
+      {
+        "id": "78accb3c7f1df073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e93381e774dc4104",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Google_Hacking/GoogleHacking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9734c38a49fbfe6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Google_Hacking/GoogleHacking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f010e576830c06e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c0d0a108d8273e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Google_Hacking/GoogleHacking.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "63aba90c4f2e4037",
+  "lastOpenFiles": [
+    "readme.md",
+    "Google_Hacking/GoogleHacking.md",
+    "Google.md",
+    "Google_Hacking/Imagens/6q45qu.jpg",
+    "Google_Hacking/Imagens/Pasted image 20220817201214.png",
+    "Google Hacking/npm-version-image.md",
+    "Google Hacking/npm-image.md",
+    "Google Hacking/2022-08-17.md",
+    "Google_Hacking/Imagens/Pasted image 20220817211923.png",
+    "Pasted image 20220817201121.png.md"
+  ]
+}
